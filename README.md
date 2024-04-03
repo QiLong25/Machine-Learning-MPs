@@ -19,6 +19,7 @@ Machine Learning-UIUC-CS course assignments
 
 ## MP3.1: Resnet
  *  **Residual Block**: Conv2d, BatchNorm2d, ReLU, Conv2d, BatchNorm2d, Concat(x), ReLU.
+
 ![image](https://github.com/QiLong25/Machine-Learning-MPs/assets/143149589/9a692281-0f64-413c-b8e0-cc32479304d4)
 
  *  **Shallow Resnet**: Conv2d, BatchNorm2d, ReLU, MaxPool2d, Residual Block, AdaptiveAvgPool2d, Linear.
