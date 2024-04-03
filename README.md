@@ -25,7 +25,7 @@ Machine Learning-UIUC-CS course assignments
 
 ## MP3.2: Image overfitting
 
- *  **\__getitem\__**: Return the data element corresponding to the given index.
+ *  **\_\_getitem\_\_**: Return the data element corresponding to the given index.
 
  *  **Weight Initialization**: uniform.
 
