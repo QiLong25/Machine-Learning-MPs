@@ -46,7 +46,7 @@ Machine Learning-UIUC-CS course assignments
 
  *  **Decoder**: given a Gaussian noise, generate objective.
 
-![plot1](https://github.com/QiLong25/Machine-Learning-MPs/assets/143149589/3fb4cccd-5d1c-4ea9-972c-ef76c18b2a09)![plot3](https://github.com/QiLong25/Machine-Learning-MPs/assets/143149589/2b9b866c-4d77-4009-8b3d-b15adabfbd60)
+![plot3](https://github.com/QiLong25/Machine-Learning-MPs/assets/143149589/2b9b866c-4d77-4009-8b3d-b15adabfbd60)
 
 
 
