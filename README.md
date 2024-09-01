@@ -84,7 +84,7 @@ Machine Learning-UIUC-CS course assignments
 
 If you are interested in the theory aspects of Machine Learning, feel free to ask for access to my documents here:
 
-![Google Drive Folder](https://drive.google.com/drive/folders/1dH1RowHhQwDJBDfYZcVh5-3hxPMJoY7D?usp=sharing)
+[Google Drive Folder](https://drive.google.com/drive/folders/1dH1RowHhQwDJBDfYZcVh5-3hxPMJoY7D?usp=sharing)
 
 ## Disclaimer
 
